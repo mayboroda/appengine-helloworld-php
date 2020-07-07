@@ -1,5 +1,4 @@
 runtime: php55
-env: flex
 
 handlers:
 - url: /.*

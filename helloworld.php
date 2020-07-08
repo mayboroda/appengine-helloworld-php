@@ -2,11 +2,11 @@
   <head>
     <style type="text/css">
       body {
-        background-color: #85144b
+        background-color: red
       }
 
       h1 {
-        color: maroon
+        color: #FF4136
       }
     </style>
   </head>

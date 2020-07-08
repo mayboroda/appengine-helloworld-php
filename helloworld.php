@@ -2,15 +2,15 @@
   <head>
     <style type="text/css">
       body {
-        background-color: red
+        background-color: #8991bd
       }
 
       h1 {
-        color: #FF4136
+        color: white
       }
     </style>
   </head>
   <body>
-    <h1><?php echo 'Hello, World! V3'; ?></h1>
+    <h1><?php echo 'Hello, World! V4'; ?></h1>
   </body>
 </html>
